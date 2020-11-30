@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Vibhu
 - ⚡ Fun fact:  There are over 700 different programming languages! 
 
+![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001)
+
