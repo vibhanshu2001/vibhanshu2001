@@ -1,4 +1,5 @@
 ![undraw_version_control_9bpv](https://user-images.githubusercontent.com/64217477/100612840-99b72080-3339-11eb-8c1d-73cc997f1bc0.png)
+<img src="https://user-images.githubusercontent.com/64217477/100612840-99b72080-3339-11eb-8c1d-73cc997f1bc0.png" height=200px width=200px>
 
 ### Hi there 👋
 
