@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
 - 🔭 I’m currently working on flutter apps and websites.
 - 🌱 I’m currently learning Flutter.
