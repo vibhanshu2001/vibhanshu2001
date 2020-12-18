@@ -9,7 +9,7 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 👯 I’m looking to collaborate on Flutter projects.
 - 🤔 I’m looking for help with Freelancing projects realed to front end web development.
 - 💬 Ask me about - Web D and App D
-- 📫 How to reach me: LinkedIn/vibhanshu-garg
+- 📫 How to reach me: LinkedIn/vibhanshu-garg | Instagram/garg.vibhanshu
 - 😄 Pronouns: Vibhu
 - ⚡ Fun fact:  There are over 700 different programming languages! 
 
