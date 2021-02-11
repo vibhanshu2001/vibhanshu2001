@@ -6,7 +6,7 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 
 - 🔭 I’m currently working on flutter apps and websites.
 - 🌱 I’m currently learning Django and Data Structures.
-- 👯 I’m looking to collaborate on Flutter projects.
+- 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with Freelancing projects realed to front end web development.
 - 💬 Ask me about - Web D and App D
 - 📫 How to reach me: LinkedIn/vibhanshu-garg | Instagram/garg.vibhanshu
