@@ -5,7 +5,7 @@
 I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
 - 🔭 I’m currently working on flutter apps and websites.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Django and Data Structures.
 - 👯 I’m looking to collaborate on Flutter projects.
 - 🤔 I’m looking for help with Freelancing projects realed to front end web development.
 - 💬 Ask me about - Web D and App D
