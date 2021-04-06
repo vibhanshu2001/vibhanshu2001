@@ -4,11 +4,11 @@
 
 I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
-- 🔭 I’m currently working on flutter apps and websites.
-- 🌱 I’m currently learning Django and Data Structures.
+- 🔭 I’m currently working on django apps.
+- 🌱 I’m learning Django and Data Structures and Alogorithms.
 - 👯 I’m looking to collaborate on web development projects.
-- 🤔 I’m looking for help with Freelancing projects realed to front end web development.
-- 💬 Ask me about - Web D and App D
+- 🤔 I’m looking for help with Freelancing projects realed to web development.
+- 💬 Ask me about - Web Development and App Development.
 - 📫 How to reach me: LinkedIn/vibhanshu-garg | Instagram/garg.vibhanshu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages! 
