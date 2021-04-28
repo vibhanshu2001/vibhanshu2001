@@ -1,4 +1,4 @@
-<img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-01/image-blog-what-code-quality.jpg" height=200px width=300px >
+<img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-01/image-blog-what-code-quality.jpg" height=300px width=600px >
 
 ### Hi there 👋
 
