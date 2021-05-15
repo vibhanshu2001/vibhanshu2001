@@ -13,5 +13,10 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages! 
 
+### Languages used
+https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=blue-green
+
+### Overall
 ![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001)
+
 
