@@ -12,7 +12,7 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 💬 Ask me about - Web Development and App Development.
 - 📫 How to reach me: LinkedIn/vibhanshu-garg | Instagram/garg.vibhanshu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  There are over 700 different programming languages! 
+- ⚡ Fun fact:  There are over 700 different programming languages!!!
 
 ### Languages used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001)
