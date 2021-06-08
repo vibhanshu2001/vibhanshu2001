@@ -10,9 +10,14 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with Freelancing projects realed to web development.
 - 💬 Ask me about - Web Development and App Development.
-- 📫 How to reach me: LinkedIn/vibhanshu-garg | Instagram/garg.vibhanshu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages!!!
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vibhanshu-garg)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/garg.vibhanshu)
+<br />
 
 ### Languages used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001)
