@@ -15,14 +15,16 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vibhanshu-garg)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/garg.vibhanshu)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://evergreenengineering.com/wp-content/uploads/2019/06/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/vibhanshu-garg)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />](https://www.instagram.com/garg.vibhanshu)
 <br />
 
 ### Languages used
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001)
 
 ### Overall
+
 ![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001)
 
 
