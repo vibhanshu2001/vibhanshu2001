@@ -1,4 +1,3 @@
-<img src="https://media2.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif?cid=ecf05e47hbba4fvfs4ros0yt8jsx4wsiaabu1jtfzrzgme10&rid=giphy.gif&ct=s" style="border-radius:20px;" height=200px width=auto >
 ## Hii, I'm [Vibhanshu Garg!](https://www.linkedin.com/in/vibhanshu-garg/) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshu2001&label=Views&color=blue&style=plastic" alt="vibhanshu2001" /> </p>
 <p align="left">
