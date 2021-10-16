@@ -1,7 +1,9 @@
 <img src="https://media2.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif?cid=ecf05e47hbba4fvfs4ros0yt8jsx4wsiaabu1jtfzrzgme10&rid=giphy.gif&ct=s" style="border-radius:20px;" height=200px width=auto >
-
-
-### Hi there 👋
+## Hii, I'm [Vibhanshu Garg!](https://www.linkedin.com/in/vibhanshu-garg/) 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshu2001&label=Views&color=blue&style=plastic" alt="vibhanshu2001" /> </p>
+<p align="left">
+  <a href="https://github.com/vibhanshu2001"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
+</p>
 
 I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
@@ -12,7 +14,8 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 💬 Ask me about - Web Development and App Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages!!!
-
+### Current Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vibhanshu2001&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/vibhanshu-garg)
@@ -26,5 +29,9 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 ### Overall
 
 ![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001)
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories and following me!
+
+</div>
 
