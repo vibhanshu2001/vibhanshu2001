@@ -4,7 +4,7 @@
   <a href="https://github.com/vibhanshu2001"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
 </p>
 
-I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
+I am a 3rd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
 - 🔭 I’m currently working on django web apps.
 - 🌱 I’m learning Data Structures and Alogorithms.
