@@ -23,7 +23,7 @@ I am a 3rd year B.Tech student looking forward for opportunities and collabarati
 
 ### Languages used
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical)
 
 ### Overall
 
