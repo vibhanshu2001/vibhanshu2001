@@ -29,7 +29,7 @@ I am a 3rd year B.Tech student looking forward for opportunities and collabarati
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical)
 
-![snake gif](https://github.com/lagrandecode/vibhanshu2001/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vibhanshu2001/vibhanshu2001/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories and following me!
