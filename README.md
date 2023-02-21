@@ -14,7 +14,7 @@ I am a 3rd year B.Tech student looking forward for opportunities and collabarati
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  There are over 700 different programming languages!!!
 ### Current Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vibhanshu2001&theme=default&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical)](https://git.io/streak-stats)
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/vibhanshu-garg)
@@ -28,7 +28,7 @@ I am a 3rd year B.Tech student looking forward for opportunities and collabarati
 ### Overall
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical)](https://git.io/streak-stats)
+
 ![snake gif](https://github.com/lagrandecode/vibhanshu2001/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 
