@@ -49,16 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical" />
 </p>
 
-### 📈 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical" />
-</p>
-
-### 🧬 Top Languages  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical&layout=compact" />
-</p>
-
 ---
 
 ## 🔗 **Connect With Me**
@@ -72,15 +62,6 @@
 </p>
 
 ---
-
-## 🌀 **Fun Component — Productivity Pulse**
-![Wakatime](https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg)
-
-_(Replace the UUID above with your real Wakatime ID if you use Wakatime.)_
-
----
-
-## 🌊 **Animated Wave Footer**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
 
 <div align="center">
