@@ -1,5 +1,5 @@
-# 🚀 Hey, I'm **Vibhanshu Garg**  
-### Full-Stack Developer • Problem Solver • Tech Explorer  
+# 🚀 **Hey, I'm Vibhanshu Garg**  
+### Software Developer • Full-Stack Engineer • System Designer  
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=vibhanshu2001&label=Profile+Views&color=blueviolet&style=flat-square" />
@@ -7,69 +7,85 @@
 
 <p align="left">
   <a href="https://github.com/vibhanshu2001">
-    <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&lines=Full+Stack+Developer;Building+Cool+Tech+Ideas;Learning+Daily%2C+Improving+Daily;Welcome+to+my+GitHub!&center=false&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&lines=Full+Stack+Developer;Building+Scalable+Systems;Rust+%26+Backend+Enthusiast;Problem+Solver+%26+Tech+Explorer;Welcome+to+my+GitHub!" />
   </a>
 </p>
 
 ---
 
-## 💡 About Me  
-I’m a final-year **B.Tech student** passionate about building things that *solve real problems*.  
-Currently exploring full-stack development, system design, and scalable engineering.
-
-- 🔭 Working on: **Django apps, Rust side-projects, system-level tools**
-- 🌱 Learning: **DSA • Distributed Systems • Rust**
-- 👯 Open to: **Web dev collaborations & freelance projects**
-- 💬 Ask me about: **Web Development • App Development • Architecture**
-- ⚡ Fun fact: *There are 700+ programming languages, but we still write JavaScript 😄*
+## 🧩 **What I’m Currently Building**
+- ⚡ A distributed in-memory cache system in **Rust**
+- 🌐 A browser-based tunnel platform (“AirDrop for Localhost”)
+- 🛠 Tools around **performance engineering** & **backend automation**
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical" />
-  </a>
-</p>
+## 🎯 **My Developer Philosophy**
+> _"I like building things that actually solve someone's pain — even if it’s small."_  
+> _"Simple, scalable, and elegant code always wins."_  
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠 **Tech Stack**
 <p>
-  <a href="https://www.linkedin.com/in/vibhanshu-garg">
-    <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  </a>
-  <a href="https://www.instagram.com/garg.vibhanshu">
-    <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-  </a>
-</p>  
-<br/>
-
----
-
-## 🧠 Tech Stack  
-### **Languages & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,tailwind,figma,git,github,docker,rust" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,rust,html,css,tailwind,git,github,docker,linux,postgres,redis" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🧠 **Technologies I'm Loving Right Now**
+- 🦀 **Rust** → Systems, performance, correctness  
+- 🧵 **WebRTC** → P2P communication & tunnels  
+- 🐳 **Docker** → Reproducible environments  
+- ⚙️ **Django + DRF** → Fast backend iteration  
 
-### 🔤 Top Languages  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical&layout=compact)
+
+---
+
+## 📊 **Analytics & Stats**
+
+### 🔥 GitHub Streak  
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical" />
+</p>
 
 ### 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical" />
+</p>
+
+### 🧬 Top Languages  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical&layout=compact" />
+</p>
 
 ---
+
+## 🔗 **Connect With Me**
+<p>
+  <a href="https://www.linkedin.com/in/vibhanshu-garg">
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/garg.vibhanshu">
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  </a>
+</p>
+
+---
+
+## 🌀 **Fun Component — Productivity Pulse**
+![Wakatime](https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg)
+
+_(Replace the UUID above with your real Wakatime ID if you use Wakatime.)_
+
+---
+
+## 🌊 **Animated Wave Footer**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
 
 <div align="center">
 
-### ⭐ Show some love by starring repos & following!  
+### ⭐ If you like my work, consider starring my repositories!  
 Thanks for visiting ❤️
 
 </div>
-
-
