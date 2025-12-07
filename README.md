@@ -1,38 +1,75 @@
-## Hii, I'm [Vibhanshu Garg!](https://www.linkedin.com/in/vibhanshu-garg/) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshu2001&label=Views&color=blue&style=plastic" alt="vibhanshu2001" /> </p>
+# 🚀 Hey, I'm **Vibhanshu Garg**  
+### Full-Stack Developer • Problem Solver • Tech Explorer  
+
 <p align="left">
-  <a href="https://github.com/vibhanshu2001"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
+ <img src="https://komarev.com/ghpvc/?username=vibhanshu2001&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
-I am a final year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
+<p align="left">
+  <a href="https://github.com/vibhanshu2001">
+    <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&lines=Full+Stack+Developer;Building+Cool+Tech+Ideas;Learning+Daily%2C+Improving+Daily;Welcome+to+my+GitHub!&center=false&width=500&height=45">
+  </a>
+</p>
 
-- 🔭 I’m currently working on django web apps.
-- 🌱 I’m learning Data Structures and Alogorithms.
-- 👯 I’m looking to collaborate on web development projects.
-- 🤔 I’m looking for help with Freelancing projects realed to web development.
-- 💬 Ask me about - Web Development and App Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  There are over 700 different programming languages!!!
-### Current Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical)](https://git.io/streak-stats)
-### Connect with me:
+---
 
-[<img align="left" alt="" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/vibhanshu-garg)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />](https://www.instagram.com/garg.vibhanshu)
-<br />
+## 💡 About Me  
+I’m a final-year **B.Tech student** passionate about building things that *solve real problems*.  
+Currently exploring full-stack development, system design, and scalable engineering.
 
-### Languages used
+- 🔭 Working on: **Django apps, Rust side-projects, system-level tools**
+- 🌱 Learning: **DSA • Distributed Systems • Rust**
+- 👯 Open to: **Web dev collaborations & freelance projects**
+- 💬 Ask me about: **Web Development • App Development • Architecture**
+- ⚡ Fun fact: *There are 700+ programming languages, but we still write JavaScript 😄*
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical)
+---
 
-### Overall
+## 🔥 GitHub Streak  
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu2001&theme=radical" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical)
+---
 
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/vibhanshu-garg">
+    <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+  <a href="https://www.instagram.com/garg.vibhanshu">
+    <img align="left" width="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  </a>
+</p>  
+<br/>
+
+---
+
+## 🧠 Tech Stack  
+### **Languages & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,tailwind,figma,git,github,docker,rust" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+### 🔤 Top Languages  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu2001&theme=radical&layout=compact)
+
+### 📈 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=vibhanshu2001&theme=radical)
+
+---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories and following me!
+### ⭐ Show some love by starring repos & following!  
+Thanks for visiting ❤️
 
 </div>
+
 
